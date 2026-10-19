@@ -1,0 +1,14 @@
+docs/source/theory/continuous_energy.rst
+  h_250041054ad857 134,136,141-147,149-186,187-188
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "65f73e9ea08e2b7f6ac0bf251d55457ac4e6e735",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
