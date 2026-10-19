@@ -1,0 +1,36 @@
+tools/data_library_generator/neutron/README.md
+  s_3c3743c56f756c::t_f87b93c9250699 57,58-59,61
+  s_3c3743c56f756c::t_7cafe229758c5b 95
+  s_ff83cbfb464bea::t_33a55927ee0ab1 41-44
+  s_ff83cbfb464bea::t_138005fc0de8d7 53-56,60,63,65-94,96-98,101-135
+  s_ff83cbfb464bea::t_cc5357fe44f7d5 136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6e70e0a72d0615d89d54285bcb4515a1ceec24b7",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3c3743c56f756c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e16bfa72-439f-4117-ad66-6f95cdf441a4",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    },
+    "s_ff83cbfb464bea": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1aadbb82-bf6c-4170-9744-335d87db4dc9",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
