@@ -1,0 +1,14 @@
+docs/source/user_guide/getting_started/installation.rst
+  h_250041054ad857 147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5335b6636209567866ab2fa372fa71e14bd43b7c",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
