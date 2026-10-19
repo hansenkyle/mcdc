@@ -1,0 +1,14 @@
+tools/data_library_generator/neutron/README.md
+  h_250041054ad857 59,64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9d5036cb969bd4b03224ce07c3c77e4d7f0839de",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
