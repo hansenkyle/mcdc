@@ -1,0 +1,16 @@
+docs/source/user_guide/index.rst
+  h_250041054ad857 37
+docs/source/user_guide/xs_format.rst
+  h_250041054ad857 1-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aad6337f8bee52565f4827a9cc09db49ec933aa3",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
