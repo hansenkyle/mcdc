@@ -1,0 +1,14 @@
+docs/source/user_guide/materials_and_data.rst
+  h_250041054ad857 8-9,14-15,17-19,29,34,36-37,41-42,58-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e11bfcb0143d8eb7b4abfdcc3634bcadf4dc0526",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
