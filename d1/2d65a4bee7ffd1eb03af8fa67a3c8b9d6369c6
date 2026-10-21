@@ -1,0 +1,16 @@
+mcdc/object_/material.py
+  h_250041054ad857 16-20,64,69,84,96,103,122,128-129,139,146,162-164,168-169,173-174
+mcdc/object_/util.py
+  h_250041054ad857 68-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d12d65a4bee7ffd1eb03af8fa67a3c8b9d6369c6",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
