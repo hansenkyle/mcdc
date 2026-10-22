@@ -1,0 +1,19 @@
+docs/source/theory/continuous_energy.rst
+  s_d6bc882f1e0c92::t_80c23b3bf58841 13,24,119,121-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7fbd886129d68d1a3c255930e94d42043e236e97",
+  "prompts": {},
+  "sessions": {
+    "s_d6bc882f1e0c92": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adf6ac98-1880-4d2a-a3ae-65d79e8393cd",
+        "model": "unknown"
+      },
+      "human_author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
