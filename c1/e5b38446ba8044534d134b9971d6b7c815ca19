@@ -1,0 +1,14 @@
+test/unit/test_material.py
+  h_250041054ad857 68,183-330
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c1e5b38446ba8044534d134b9971d6b7c815ca19",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
