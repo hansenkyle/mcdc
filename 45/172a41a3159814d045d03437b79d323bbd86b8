@@ -1,0 +1,23 @@
+test/unit/test_material.py
+  s_d6bc882f1e0c92::t_381fe6ef8b050c 525-577
+  s_d6bc882f1e0c92::t_44b5db9cbdef4a 331-524
+mcdc/object_/material.py
+  s_d6bc882f1e0c92::t_d7eb6cb30eae36 21,53-63,78-80,97-103,119-133,157-162,170,194-196,204-205,209-213,216-217,219-242,247,251-252,263-268,294-297,382,386-391,398-403,406-409,482-485,565-597
+  s_d6bc882f1e0c92::t_286df283f45f3a 598-599
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "45172a41a3159814d045d03437b79d323bbd86b8",
+  "prompts": {},
+  "sessions": {
+    "s_d6bc882f1e0c92": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adf6ac98-1880-4d2a-a3ae-65d79e8393cd",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
