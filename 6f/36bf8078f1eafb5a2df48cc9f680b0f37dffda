@@ -1,0 +1,19 @@
+mcdc/object_/simulation.py
+  s_d6bc882f1e0c92::t_9b1edd8869057b 490,492
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6f36bf8078f1eafb5a2df48cc9f680b0f37dffda",
+  "prompts": {},
+  "sessions": {
+    "s_d6bc882f1e0c92": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adf6ac98-1880-4d2a-a3ae-65d79e8393cd",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
