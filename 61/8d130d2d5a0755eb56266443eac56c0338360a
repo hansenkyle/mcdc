@@ -1,0 +1,20 @@
+test/unit/test_material.py
+  s_d6bc882f1e0c92::t_dbb1dcd977a087 580-704
+  s_d6bc882f1e0c92::t_8dd52c5db0b3d3 532,534
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "618d130d2d5a0755eb56266443eac56c0338360a",
+  "prompts": {},
+  "sessions": {
+    "s_d6bc882f1e0c92": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adf6ac98-1880-4d2a-a3ae-65d79e8393cd",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
