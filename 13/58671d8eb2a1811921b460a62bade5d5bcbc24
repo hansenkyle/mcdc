@@ -1,0 +1,104 @@
+mcdc/object_/util.py
+  h_250041054ad857 68-71
+mcdc/object_/material.py
+  s_d6bc882f1e0c92::t_9b1edd8869057b 461,463,468-469,471-473,475-479,481-483,485-492,494-497,501-502,504-506,509
+  h_250041054ad857 11,20,21-22,23-24,40,43,71,77-78,79-81,82-83,84,85-86,87-89,90,91-92,93-94,104,110-113,125,198,200,210,228,230,241,267,273,278-279,513,538
+  s_d6bc882f1e0c92::t_0eefe74379337d 460
+  s_d6bc882f1e0c92::t_0a9db63c000dc2 510-511
+  h_250041054ad857 20,23-24,40,43,71,79-81,85-86,93-94,104,110-113,267,273,278-279,513
+  s_d6bc882f1e0c92::t_615ef5cb44ff52 39,76,109,143,165,183,193,272,277,280-281,462,470,503,508
+  s_d6bc882f1e0c92::t_d7eb6cb30eae36 25,53-63,95-101,117-124,126-131,155-156,157-158,166,186-188,194-195,202-209,212-227,263-266,351,355-357,359-360,367-372,375-378,530-537,539,540
+  s_d6bc882f1e0c92::t_286df283f45f3a 545-546
+  s_d6bc882f1e0c92::t_df47406c536fb6 211
+  s_d6bc882f1e0c92::t_79a213aa6640af 10,12-14
+  s_d492fa1cbe433e::t_954e00f2cf6cec 358,541-544
+mcdc/object_/simulation.py
+  s_d6bc882f1e0c92::t_9b1edd8869057b 490,492
+test/unit/test_material.py
+  h_250041054ad857 1,8-12,15-20,48,52,75-90,92,104,129,194,200-204,205-242,244-254,256-264,266-275,277-288,290-299,301-313,316-336,338-344,494
+  s_d6bc882f1e0c92::t_615ef5cb44ff52 243,255,265,276,289,300,314-315,337
+  s_d6bc882f1e0c92::t_381fe6ef8b050c 529-533,535,537-542,546-583
+  s_d6bc882f1e0c92::t_44b5db9cbdef4a 345-371,373-493,495-528
+  s_d6bc882f1e0c92::t_dbb1dcd977a087 584-588,589-609,610-680,681-686
+  s_d6bc882f1e0c92::t_8dd52c5db0b3d3 534,536
+  s_d492fa1cbe433e::t_7a9fcb6205dc26 372,543-545
+docs/source/user_guide/materials_and_data.rst
+  s_d6bc882f1e0c92::t_28756f93ce9511 18-20
+  s_d6bc882f1e0c92::t_74194f04940b78 21,24
+  s_d6bc882f1e0c92::t_615ef5cb44ff52 33,84
+  h_250041054ad857 22-23,25-26,41-50
+docs/source/theory/continuous_energy.rst
+  s_d6bc882f1e0c92::t_80c23b3bf58841 119,122-124
+  h_250041054ad857 13,24,125
+  s_d6bc882f1e0c92::t_615ef5cb44ff52 121
+test/unit/test_object_compilation.py
+  s_d6bc882f1e0c92::t_615ef5cb44ff52 188,208,238,266,385-386
+examples/hybrid_multigroup/input.py
+  s_d6bc882f1e0c92::t_615ef5cb44ff52 10
+CHANGELOG.md
+  h_250041054ad857 11
+mcdc/constant.py
+  s_d6bc882f1e0c92::t_79a213aa6640af 25
+  h_250041054ad857 26
+test/unit/photon/conftest.py
+  h_250041054ad857 215
+test/unit/transport/test_electron_ionization.py
+  h_250041054ad857 62,86
+test/regression/basic_weight_windows/input.py
+  h_250041054ad857 16,21
+test/regression/pincell-energy_deposition/input.py
+  h_250041054ad857 13,18
+test/regression/pincell/input.py
+  h_250041054ad857 13,18
+test/regression/photon_pb_cylinder_edep/input.py
+  h_250041054ad857 31
+test/regression/photon_pb_spheres/input.py
+  h_250041054ad857 31
+test/regression/hybrid_multigroup/input.py
+  h_250041054ad857 12
+test/regression/pincell-k_eigenvalue/input.py
+  h_250041054ad857 13,18
+test/regression/multiparticle_weight_windows/input.py
+  h_250041054ad857 12
+test/regression/lockwood/input.py
+  h_250041054ad857 50
+test/regression/photon_mm_spheres_spectrum/input.py
+  s_d492fa1cbe433e::t_ff50d2dc39829b 56,58,61-71,75,78
+test/unit/proton/test_inelastic_energy_conservation.py
+  h_250041054ad857 104
+test/unit/proton/test_capture_q_value.py
+  h_250041054ad857 104
+test/unit/proton/test_cross_species_secondary_energy_subtraction.py
+  h_250041054ad857 104
+test/unit/proton/test_elastic_energy_conservation.py
+  h_250041054ad857 90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1358671d8eb2a1811921b460a62bade5d5bcbc24",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_d492fa1cbe433e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1783587d-28c3-4f79-a5c1-7d7823b54d70",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    },
+    "s_d6bc882f1e0c92": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adf6ac98-1880-4d2a-a3ae-65d79e8393cd",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
