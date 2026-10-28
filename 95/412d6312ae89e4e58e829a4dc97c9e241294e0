@@ -1,0 +1,14 @@
+test/unit/test_object_compilation.py
+  h_250041054ad857 188,208,238,266,385-386
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "95412d6312ae89e4e58e829a4dc97c9e241294e0",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}

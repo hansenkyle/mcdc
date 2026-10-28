@@ -1,0 +1,35 @@
+test/unit/test_material.py
+  s_d6bc882f1e0c92::t_381fe6ef8b050c 525-577
+  s_d6bc882f1e0c92::t_44b5db9cbdef4a 331-524
+mcdc/object_/material.py
+  s_d6bc882f1e0c92::t_d7eb6cb30eae36 25,57-67,82-84,101-107,123-130,132-137,161-166,174,198-200,208-209,213-217,220-221,223-230,240-255,260,264-265,276-281,307-310,395,399-404,411-416,419-422,574-606
+  s_d6bc882f1e0c92::t_286df283f45f3a 607-608
+  h_250041054ad857 93-95,131
+docs/source/theory/continuous_energy.rst
+  h_250041054ad857 24
+docs/source/user_guide/materials_and_data.rst
+  h_250041054ad857 22-23,25-26,41-50
+CHANGELOG.md
+  h_250041054ad857 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b866ce217c816482675dc1bd955420dcde2d1010",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_d6bc882f1e0c92": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adf6ac98-1880-4d2a-a3ae-65d79e8393cd",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
