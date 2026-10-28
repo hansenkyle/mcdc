@@ -1,0 +1,32 @@
+test/regression/basic_weight_windows/input.py
+  h_250041054ad857 16,21
+test/regression/hybrid_multigroup/input.py
+  h_250041054ad857 12
+test/regression/lockwood/input.py
+  h_250041054ad857 51
+test/regression/multiparticle_weight_windows/input.py
+  h_250041054ad857 12
+test/regression/photon_mm_spheres_spectrum/input.py
+  h_250041054ad857 56,58,61,77
+test/regression/photon_pb_cylinder_edep/input.py
+  h_250041054ad857 31
+test/regression/photon_pb_spheres/input.py
+  h_250041054ad857 31
+test/regression/pincell-energy_deposition/input.py
+  h_250041054ad857 13,18
+test/regression/pincell-k_eigenvalue/input.py
+  h_250041054ad857 13,18
+test/regression/pincell/input.py
+  h_250041054ad857 13,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "82c0861e2aab51a950e983ab2cb90e65298f3587",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
