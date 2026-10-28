@@ -1,0 +1,16 @@
+mcdc/constant.py
+  h_250041054ad857 26
+mcdc/object_/material.py
+  h_250041054ad857 11,582
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "54a1c8d46b9c7f93820efaf32618f96ee2796ba9",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
