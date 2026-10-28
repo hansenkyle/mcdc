@@ -1,0 +1,16 @@
+test/unit/photon/conftest.py
+  h_250041054ad857 215
+test/unit/transport/test_electron_ionization.py
+  h_250041054ad857 62,86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a15f09e917c994cf8408d89d67dcc58e4501b317",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
