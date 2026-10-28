@@ -1,0 +1,20 @@
+test/unit/proton/test_inelastic_energy_conservation.py
+  h_250041054ad857 104
+test/unit/proton/test_capture_q_value.py
+  h_250041054ad857 104
+test/unit/proton/test_cross_species_secondary_energy_subtraction.py
+  h_250041054ad857 104
+test/unit/proton/test_elastic_energy_conservation.py
+  h_250041054ad857 90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4263110fb362e304e3e7a67d01f688076a6c6cf1",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
