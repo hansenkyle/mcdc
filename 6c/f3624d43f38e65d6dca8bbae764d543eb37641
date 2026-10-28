@@ -1,0 +1,28 @@
+mcdc/object_/material.py
+  s_d492fa1cbe433e::t_954e00f2cf6cec 358,541-544
+test/unit/test_material.py
+  s_d492fa1cbe433e::t_7a9fcb6205dc26 372,543-545
+test/regression/photon_mm_spheres_spectrum/input.py
+  s_d492fa1cbe433e::t_ff50d2dc39829b 56,58,61-71,75,78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6cf3624d43f38e65d6dca8bbae764d543eb37641",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_d492fa1cbe433e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1783587d-28c3-4f79-a5c1-7d7823b54d70",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
