@@ -1,0 +1,14 @@
+CHANGELOG.md
+  h_250041054ad857 31,57-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6e61fd27e57265a8d2d0cc3c16a32df629a8f049",
+  "prompts": {},
+  "humans": {
+    "h_250041054ad857": {
+      "author": "Kyle Hansen <hansen.kyle16@gmail.com>"
+    }
+  }
+}
